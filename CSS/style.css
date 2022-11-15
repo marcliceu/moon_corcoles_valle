@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body{
+
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    
+}
+
+.flexbox-header a {
+
+display: flex;
+align-content: space-between;
+background-color: blue;
+justify-content: center;
+color: white;
+font-family: 'Roboto', sans-serif;
+flex-direction: row;
+height: 25%;
+font-size: 15px;
+
+
+}
+
+.home {
+
+    
+    display: flex;
+    text-decoration: none;
+    flex-direction: row;
+    
+}
+
+.galeria {
+
+    display: flex;
+    text-decoration: none;
+    flex-direction: row;
+}
+
+.reserva {
+
+display: flex;
+text-decoration: none;
+flex-direction: row;
+}
+
+.link {
+
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin: 0%;
+}
+
+.fondo {
+
+margin: 0%;
+
+}
+
+.cuadro-center {
+
+    border: 5px solid blue;
+    background-color: blue;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
